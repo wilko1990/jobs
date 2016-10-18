@@ -1,0 +1,34 @@
+title: Lead Developer / CTO
+company: Patch
+url: http://patch.garden
+location: Hoxton, London, United Kingdom
+contract: permanent
+contact:
+    name: Freddie Blackett
+    email: jobs@hellopatch.com
+created: !!timestamp '2016-10-18' 
+tags:
+  - uk
+  - python
+  - sql
+  - django
+  - senior
+---
+
+# Overview
+
+We are looking to recruit a lead developer / CTO for a first-mover e-commerce start-up operating in a £3.22bn UK market.
+
+Candidates for this role will ideally be familar with Python, Django, PostgreSQL, Redis, Celery, RabbitMQ, React, 
+MobX, Webpack. Our local development environment is built on top of Docker and the production environment is fully 
+powered by Amazon Web Services (EC2, S3, RDS, ElastiCache, Route53, ELB, among others)
+
+
+Please send a CV to the address above.
+
+# Role requirements
+
+* Python
+* Django
+* PostgreSQL
+* AWS
